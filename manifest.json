@@ -1,0 +1,9 @@
+{
+  "name": "Household Ledger",
+  "short_name": "Ledger",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#26332B",
+  "theme_color": "#26332B",
+  "icons": []
+}
